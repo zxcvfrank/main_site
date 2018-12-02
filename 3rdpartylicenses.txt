@@ -298,6 +298,10 @@ Apache License
    See the License for the specific language governing permissions and
    limitations under the License.
 
+highcharts@6.2.0
+https://www.highcharts.com/license
+https://www.highcharts.com/license
+
 webpack@4.8.3
 MIT
 Copyright JS Foundation and other contributors
